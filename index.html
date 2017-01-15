@@ -23,6 +23,8 @@
 	<script>
 		var socket = io();
 		$('form').submit(function(){
+			// Prohibits blank entry from being displayed
+			if ($('#m').val() !== '')
 			socket.emit('chat message', $('#m').val());
 			//This clears the field so you can type a new message.
 			$('#m').val('');
