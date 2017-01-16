@@ -1,7 +1,8 @@
 # chat
 Basic JS Chat
 
-** Pro tip:  If you are like me and make changes to .js and .html files, stop and rerun the server and dont see changes remember to RELOAD the webpage as well.  Will save you 30+ minutes of stepping through the code.
+Current Design Thoughts:
+https://app.moqups.com/justin.jennissen@gmail.com/KY6oB58mek/view
 
 Please find below some suggestions on how to start and proceed. By no means do you need to follow these or even read them. Just thought I'd jot some stuff down to give you a central starting point in case that is desirable.
 
