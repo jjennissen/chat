@@ -1,7 +1,7 @@
 # chat
 Basic JS Chat
 
-Current Design Thoughts:
+# Current Design Thoughts
 https://app.moqups.com/justin.jennissen@gmail.com/KY6oB58mek/view
 
 Please find below some suggestions on how to start and proceed. By no means do you need to follow these or even read them. Just thought I'd jot some stuff down to give you a central starting point in case that is desirable.
